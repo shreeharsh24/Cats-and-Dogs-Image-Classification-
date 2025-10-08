@@ -1,2 +1,2 @@
 # Cats-and-Dogs-Image-Classification-
-image classification of cat and dogs using deep learning and CNN model
+Image classification of cats and dogs using deep learning and a CNN model in Python using Tensorflow,Keras
